@@ -1,0 +1,11 @@
+
+/* google font for title fo web */
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC:wght@100,200,300,400,500,600,700,800,900,1000&display=swap');
+
+.title-font {
+    font-family: 'sedan+sc'
+}
+
+* {
+    box-sizing: border-box;
+}

@@ -5,7 +5,7 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 function Contact() {
   return (
-    <div className='w-[100%] h-screen mt-14 h-[380px]'>
+    <div className='w-[100%]  mt-14 h-[380px]'>
 
       <div className='w-[100%] '>
         <h2 className='text-center font-semibold text-2xl'>  Contact Us </h2>

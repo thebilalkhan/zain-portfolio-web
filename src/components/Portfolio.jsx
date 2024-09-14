@@ -11,7 +11,7 @@ import portfolioWeb from '../assets/htmlCssPortfolioImg.PNG'
 function Portfolio() {
     return (
 
-        <div className='grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 4xl:grid-cols-4 w-[85%]  gap-x-4 gap-y-6 border  mx-auto my-12 relative pt-32  '>
+        <div className='grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 4xl:grid-cols-4 w-[85%]  gap-x-4 gap-y-6 border  mx-auto my-12 relative   '>
 
 
             <div className='w-90 p-3 border border-gray-400 rounded bg-gray-100 relative'>

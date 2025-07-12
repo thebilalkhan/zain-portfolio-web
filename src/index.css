@@ -10,3 +10,22 @@
 html {
     scroll-behavior: smooth;
 }
+
+@media(max-width:900px){
+    .home-img{
+        margin-top: 150px;
+        width: 3000px
+    }
+    .nav{
+       
+        
+        margin-top: 50px;
+       
+    }
+
+    .nav a li{
+        font-size: 12px  !important;
+        width: 20%;
+    }
+    
+}
